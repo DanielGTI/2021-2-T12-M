@@ -1,5 +1,5 @@
 ## PROJETO EM DESENVOLVIMENTO DE SISTEMAS
-* **Dia:** Segunda-Feira (Pós-aula)
+* **Dia:** Sexta-Feira (Pós-aula)
 * **Período:** manhã
 
 ## Descrição
